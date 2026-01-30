@@ -1,0 +1,50 @@
+    p{ 
+        font-family: roboto;
+         margin-bottom: 0;
+    }
+  .vidio_title{
+    font-size: 18px;
+    font-weight: bold;
+    font-style:italic;
+    width:300px;
+    line-height:22px;
+    margin-bottom: 6px;
+ 
+  }
+  .vidio_stutus{
+    font-size:14px;
+    color:gray;
+    margin-top: 14px;
+
+  }
+  .vidio_author{
+        font-size:14px;
+        color:gray;
+        font-size:14px;
+        margin-top: 20px;
+       
+  }
+  .vedio_discrption{
+        font-size:14px;
+        color:gray;
+        width:280px;
+        line-height:22px;
+        margin-top: 20px;
+
+  }
+  .apple{
+     font-size:14px;
+     background-color:red;
+     color :white;
+     text-align: center;
+     padding-top:17px;
+     padding-bottom:17px;
+     margin-top:20px;
+     width:500px;
+    
+
+  }
+  .word:hover{
+     text-decoration: underline;
+     cursor: pointer;
+  }
